@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yashika 👋
 
-<!--
-**yashika279/yashika279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ruby on Rails Developer with experience building web applications, APIs, background jobs, and performance optimizations.
 
-Here are some ideas to get you started:
+## Technical Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rails Performance Optimization: Fixing N+1 Queries with includes, preload, and eager_load
+  https://railswithyashika.hashnode.dev/rails-performance-n-plus-one-queries
+
+## Tech Stack
+
+- Ruby on Rails
+- PostgreSQL
+- Redis
+- Sidekiq
+- Docker
+- AWS
