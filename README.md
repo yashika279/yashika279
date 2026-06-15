@@ -7,6 +7,9 @@ Ruby on Rails Developer with experience building web applications, APIs, backgro
 - Rails Performance Optimization: Fixing N+1 Queries with includes, preload, and eager_load
   https://railswithyashika.hashnode.dev/rails-performance-n-plus-one-queries
 
+- Learn how to use PostgreSQL concurrent indexes in Rails to avoid production downtime, reduce locking, and safely add indexes on large tables.
+https://railswithyashika.hashnode.dev/postgresql-concurrent-indexes-in-rails-avoiding-downtime-in-production
+
 ## Tech Stack
 
 - Ruby on Rails
