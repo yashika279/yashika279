@@ -13,6 +13,9 @@ https://railswithyashika.hashnode.dev/postgresql-concurrent-indexes-in-rails-avo
 - Understanding Indexes Before Learning Index Types
 https://railswithyashika.hashnode.dev/understanding-indexes-before-learning-index-types
 
+- PostgreSQL Index Types Explained with Real Rails Examples
+https://hashnode.com/edit/cmr1sv298000009hzhzw22ovg
+
 ## Tech Stack
 
 - Ruby on Rails
